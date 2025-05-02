@@ -1,35 +1,33 @@
-{
-    "productsData": [
-        {   
-            "id" : 1,
-            "tittle" : "Manzana",
-            "category" : "Comestible",
-            "price" : 250
+[
+{   
+    "id" : 1,
+    "tittle" : "Manzana",
+    "category" : "Comestible",
+    "price" : 250
 
-        },
-        {
-            "id" : 2,
-            "tittle" : "Medias",
-            "category" : "Ropa",
-            "price" : 1200
-        },
-        {
-            "id" : 3,
-            "tittle" : "Martillo",
-            "category" : "Herramientas",
-            "price" : 740
-        },
-        {
-            "id": 4,
-            "tittle": "Mermelada",
-            "category": "Comestible",
-            "price": 800
-          },
-          {
-            "id": 5,
-            "tittle": "Monitor",
-            "category": "Tecnología",
-            "price": 55000
-          }
-    ]
-}
+},
+{
+    "id" : 2,
+    "tittle" : "Medias",
+    "category" : "Ropa",
+    "price" : 1200
+},
+{
+    "id" : 3,
+    "tittle" : "Martillo",
+    "category" : "Herramientas",
+    "price" : 740
+},
+{
+    "id": 4,
+    "tittle": "Mermelada",
+    "category": "Comestible",
+    "price": 800
+    },
+    {
+    "id": 5,
+    "tittle": "Monitor",
+    "category": "Tecnología",
+    "price": 55000
+    }
+]
